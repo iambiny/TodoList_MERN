@@ -1,5 +1,3 @@
-# This is a small project built by MERN stack
-
 # Tạo 1 project MERN-Stack
 ## Tạo thư mục 'backend'
     - npm init:                             Tạo file package.json
